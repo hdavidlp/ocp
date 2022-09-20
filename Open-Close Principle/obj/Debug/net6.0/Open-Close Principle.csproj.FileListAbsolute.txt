@@ -1,0 +1,18 @@
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\bin\Debug\net6.0\Open-Close Principle.exe
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\bin\Debug\net6.0\Open-Close Principle.deps.json
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\bin\Debug\net6.0\Open-Close Principle.runtimeconfig.json
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\bin\Debug\net6.0\Open-Close Principle.dll
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\bin\Debug\net6.0\Open-Close Principle.pdb
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\obj\Debug\net6.0\Open-Close Principle.csproj.AssemblyReference.cache
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\obj\Debug\net6.0\Open-Close Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\obj\Debug\net6.0\Open-Close Principle.AssemblyInfoInputs.cache
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\obj\Debug\net6.0\Open-Close Principle.AssemblyInfo.cs
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\obj\Debug\net6.0\Open-Close Principle.csproj.CoreCompileInputs.cache
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\obj\Debug\net6.0\Open-Close Principle.dll
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\obj\Debug\net6.0\refint\Open-Close Principle.dll
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\obj\Debug\net6.0\Open-Close Principle.pdb
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\obj\Debug\net6.0\Open-Close Principle.genruntimeconfig.cache
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\obj\Debug\net6.0\ref\Open-Close Principle.dll
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\bin\Debug\net6.0\OCPLibrary.dll
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\bin\Debug\net6.0\OCPLibrary.pdb
+C:\Users\Hector Lopez P\source\repos\Open-Close Principle\Open-Close Principle\obj\Debug\net6.0\Open-Close Principle.csproj.CopyComplete
