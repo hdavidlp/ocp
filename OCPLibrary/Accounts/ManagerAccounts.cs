@@ -1,15 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using OCPLibrary.Applicants;
 
-namespace OCPLibrary
+namespace OCPLibrary.Accounts
 {
-    public  class Accounts
+    public class ManagerAccounts : IAccounts
     {
-        public EmployeeModel Create(PersonModel person)
+        public EmployeeModel Create(IApplicantModel person)
         {
             EmployeeModel output = new EmployeeModel();
 
@@ -18,10 +18,10 @@ namespace OCPLibrary
             output.EmailAddress =
                    $"{person.FirstName.Substring(0, 1).ToLower()}" +
                    $"{person.LastName.ToLower()}" +
-                    "acme.com";
+                    "acmecorp.com";
+            output.IsManager = true;
 
             return output;
         }
-
     }
 }
